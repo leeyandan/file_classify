@@ -22,3 +22,4 @@ python classify_by_date_type.py -i I:\DCIM\100MEDIA -o H:\航拍素材\test -g 2
 	- d. 类型-日期分类
 	- t for type , d for date 。
 	- -c td表示先后顺序 
+2. 支持将多个文件夹的文件汇总，然后再分类整理
